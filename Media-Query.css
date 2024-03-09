@@ -503,6 +503,7 @@
     display: none;
   }
   .doc1 {
+    display: block;
     width: 291px;
     color: #fff;
     font-family: Inter;
