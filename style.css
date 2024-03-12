@@ -1,5 +1,8 @@
 
 .body {
+  margin:auto;
+  justify-content: center;
+  flex-direction: column;
   width: 1440px;
   height: 1648px;
   flex-shrink: 0;
