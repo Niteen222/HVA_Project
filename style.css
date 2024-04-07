@@ -1,4 +1,6 @@
-
+*{
+  font-family: "Arial" !important;
+}
 .body {
   margin:auto;
   justify-content: center;
@@ -85,7 +87,6 @@ nav {
 }
 .book {
   color: #5f42ff;
-  font-family: "Inter V";
   font-size: 15px;
   font-style: normal;
   font-weight: 520;
@@ -95,7 +96,6 @@ nav {
 .head {
   color: #211f28;
   text-align: center;
-  font-family: "Inter V";
   font-size: 72px;
   font-style: normal;
   font-weight: 600;
@@ -118,7 +118,7 @@ nav {
 .automated {
   margin-top: 0;
   text-align: center;
-  font-family: "Inter V";
+  /* font-family: "Inter V"; */
   font-size: 94px;
   font-style: normal;
   font-weight: 580;
